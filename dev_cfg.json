@@ -1,0 +1,12 @@
+{
+    "name": "normal_tour",
+    "scope": "results",
+    "strategy_set": "dev",
+    "single_run": true,
+    "deviation": 20,
+    "step": 5,
+    "distribution": null,
+    "turns": 200,
+    "repetitions": 100,
+    "processes": 4
+}

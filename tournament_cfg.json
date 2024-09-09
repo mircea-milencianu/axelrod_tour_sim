@@ -1,0 +1,12 @@
+{
+    "name": "first_set_tour",
+    "scope": "results",
+    "strategy_set": "first",
+    "single_run": false,
+    "deviation": 20,
+    "step": 20,
+    "distribution": "uniform",
+    "turns": 200,
+    "repetitions": 100,
+    "processes": 4
+}
